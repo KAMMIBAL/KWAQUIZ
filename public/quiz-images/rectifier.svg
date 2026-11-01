@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Prostownik diodowy</title><desc id="desc">Symbol diody w obwodzie oraz przebieg przemienny zmieniony na jednokierunkowy.</desc>
+  <rect width="720" height="300" rx="24" fill="#f4f8fa"/><text x="40" y="53" fill="#34434b" font-family="Arial,sans-serif" font-size="22" font-weight="700">Dioda i prostowanie</text>
+  <g fill="none" stroke="#0872b3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M84 128h125m112 0h125"/><path d="M209 93v70l66-35z" fill="#dceef7"/><path d="M275 93v70"/><path d="M475 96c18-25 36-25 54 0s36 25 54 0 36-25 54 0"/><path d="M475 177h162" stroke="#677e89"/><path d="M475 177v-50h40v50h40v-50h40v50h42" stroke="#0872b3"/></g>
+  <text x="266" y="207" text-anchor="middle" fill="#687984" font-family="Arial,sans-serif" font-size="15">Dioda przewodzi w jednym kierunku</text><text x="556" y="224" text-anchor="middle" fill="#687984" font-family="Arial,sans-serif" font-size="15">Wyprostowany przebieg</text><text x="556" y="82" text-anchor="middle" fill="#687984" font-family="Arial,sans-serif" font-size="14">AC</text><text x="556" y="253" text-anchor="middle" fill="#687984" font-family="Arial,sans-serif" font-size="14">DC</text>
+</svg>

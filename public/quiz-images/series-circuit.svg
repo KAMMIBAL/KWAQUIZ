@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Połączenie szeregowe rezystorów</title><desc id="desc">Dwa rezystory połączone jeden za drugim w pojedynczej pętli zasilanej baterią.</desc>
+  <rect width="720" height="300" rx="24" fill="#f4f8fa"/><text x="40" y="53" fill="#34434b" font-family="Arial,sans-serif" font-size="22" font-weight="700">Połączenie szeregowe</text>
+  <g fill="none" stroke="#0872b3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M135 145V98h135m78 0h76m78 0h82v145H135v-45"/><path d="M135 198v-28m-15 0h30m-24 12h18"/></g>
+  <path d="M270 80h78v36h-78zM442 80h78v36h-78z" fill="#fff" stroke="#657b87" stroke-width="5"/><text x="309" y="105" fill="#4b5d66" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">R₁</text><text x="481" y="105" fill="#4b5d66" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">R₂</text>
+  <text x="360" y="212" text-anchor="middle" fill="#657b87" font-family="Arial,sans-serif" font-size="16">Jedna droga przepływu prądu</text>
+</svg>

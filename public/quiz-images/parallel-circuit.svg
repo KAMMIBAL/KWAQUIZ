@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Połączenie równoległe rezystorów</title><desc id="desc">Dwa rezystory znajdują się w oddzielnych gałęziach między wspólnymi zaciskami.</desc>
+  <rect width="720" height="300" rx="24" fill="#f4f8fa"/><text x="40" y="53" fill="#34434b" font-family="Arial,sans-serif" font-size="22" font-weight="700">Połączenie równoległe</text>
+  <g fill="none" stroke="#0872b3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M153 92v149m414-149v149M153 92h110m90 0h214M153 241h110m90 0h214"/><path d="M153 160v-20m-15 0h30m-24 12h18"/></g>
+  <rect x="263" y="74" width="90" height="36" rx="5" fill="#fff" stroke="#657b87" stroke-width="5"/><rect x="263" y="223" width="90" height="36" rx="5" fill="#fff" stroke="#657b87" stroke-width="5"/><text x="308" y="98" fill="#4b5d66" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">R₁</text><text x="308" y="247" fill="#4b5d66" font-family="Arial,sans-serif" font-size="18" text-anchor="middle">R₂</text><text x="432" y="173" text-anchor="middle" fill="#657b87" font-family="Arial,sans-serif" font-size="16">Wspólne zaciski</text>
+</svg>

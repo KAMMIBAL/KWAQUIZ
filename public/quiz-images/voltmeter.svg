@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="title desc">
+  <title id="title">Pomiar napięcia woltomierzem</title><desc id="desc">Woltomierz podłączony równolegle do badanego rezystora.</desc>
+  <rect width="720" height="300" rx="24" fill="#f4f8fa"/><text x="40" y="53" fill="#34434b" font-family="Arial,sans-serif" font-size="22" font-weight="700">Pomiar napięcia</text>
+  <g fill="none" stroke="#0872b3" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M160 105v145h390V105M160 105h95m115 0h180M160 250h95m115 0h180M160 105h-30v65m0 52v28h30"/><path d="M130 170v52"/></g>
+  <rect x="255" y="85" width="115" height="40" rx="6" fill="#fff" stroke="#657b87" stroke-width="5"/><text x="312" y="111" text-anchor="middle" fill="#4b5d66" font-family="Arial,sans-serif" font-size="18">badany element</text><circle cx="130" cy="196" r="28" fill="#fff" stroke="#0872b3" stroke-width="5"/><text x="130" y="203" text-anchor="middle" fill="#0872b3" font-family="Arial,sans-serif" font-size="20" font-weight="700">V</text><text x="445" y="181" text-anchor="middle" fill="#657b87" font-family="Arial,sans-serif" font-size="16">Woltomierz łączy się równolegle</text>
+</svg>
